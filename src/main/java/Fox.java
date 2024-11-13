@@ -1,2 +1,4 @@
-public class Fox extends Dog {
+
+public class Fox extends Cat {
+
 }
