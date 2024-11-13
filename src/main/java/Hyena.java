@@ -1,2 +1,2 @@
-public class Hyena extends Dog {
+public class Hyena extends Cat {
 }
